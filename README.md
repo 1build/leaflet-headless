@@ -1,6 +1,8 @@
 Leaflet-headless
 ----------------
 
+**note**: This fork upgrades the `canvas` dependency from `~1.6.2` to `^2.6.1`, fixing upstream build errors.
+
 [Leaflet](http://leafletjs.com) for node.
 
 
